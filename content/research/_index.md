@@ -10,7 +10,7 @@ show_post_date: false
 show_post_thumbnail: true
 cascade:
   type: blog
-  author: Vincent Armentano
+  author: Holt Dwyer
   show_author_byline: false
   show_comments: false
   show_post_date: false
@@ -20,11 +20,11 @@ cascade:
     text_link_url: /research/
 sidebar:
   author:
-  description: "The goal of my research is to help improve the choice set of policymakers looking to aid smallholder farmers in overcoming the new challenges they'll face due to climate change.  \n"
+  description: "I am interested in structural transformation and development, with a focus on India and Indonesia. My current work deals with the impact of the Green Revolution on farm sizes in India, the effectiveness of forest regulation in Indonesia, and the effect of federal procurement on firm growth in the U.S.  \n"
   show_sidebar_adunit: false
-  text_link_label: Contact me
-  text_link_url: mailto:varmenta@ucsd.edu
-  title: Vincent Armentano
+  text_link_label: Contact me!
+  text_link_url: mailto:bdwyer@ucsd.edu
+  title: Holt Dwyer
 thumbnail_left: true
 
 ---
