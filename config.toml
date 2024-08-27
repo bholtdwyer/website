@@ -1,4 +1,4 @@
-baseURL = "https://vincentarmentano.com"
+baseURL = "https://holtdwyer.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Holt Dwyer"
