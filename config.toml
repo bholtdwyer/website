@@ -32,8 +32,9 @@ enableEmoji = true
   orgLocal = "San Diego"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   #Locations are all under the "/static/img" folder under themes/hugo-apero
-  favicon = "/img/bonsai.ico"
-  logo = ""
+  favicon = "/img/bonsai.svg"
+  #Little decorative element at top/left of page
+  logo = "/img/bonsai.svg"
   mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -99,7 +100,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "google" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://scholar.google.com/"
+      url       = "https://scholar.google.com/citations?user=ikX55psAAAAJ&hl=en&oi=ao"
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -113,6 +114,7 @@ enableEmoji = true
 
 [menu]
   # Configure header 
+  #Points to files under "contents"
   [[menu.header]]
     name = "About"
     title = "About"
