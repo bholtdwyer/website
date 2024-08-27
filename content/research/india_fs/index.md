@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2024-09-01"
+date: "2024-08-27"
 draft: false
 excerpt: Job market paper. Work in progress.
 layout: single

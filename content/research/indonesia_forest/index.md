@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2024-08-27"
+date: "2024-08-25"
 draft: false
 excerpt: Work in progress.
 subtitle: 
