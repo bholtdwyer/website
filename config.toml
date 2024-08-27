@@ -1,8 +1,8 @@
 baseURL = "https://vincentarmentano.com"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Vincent Armentano"
-author = "Vincent Armentano, Author"
+title = "Holt Dwyer"
+author = "Holt Dwyer, Author"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -28,11 +28,12 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Vincent Armentano"
+  orgName = "Holt Dwyer"
   orgLocal = "San Diego"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/iconVA.ico"
-  logo = "/img/bigVA.png"
+  #Locations are all under the "/static/img" folder under themes/hugo-apero
+  favicon = "/img/bonsai.ico"
+  logo = ""
   mainSections = []
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -40,15 +41,15 @@ enableEmoji = true
   socialInHeader = false
   socialInFooter = true
   # Default image for social sharing and search engines. 
-  # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/bigVA.png"
+  # Place image file in `static` folder (under themes/hugo-apero) and specify image name here.
+  sharing_image = "/img/headshot.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "vinnyarmentano"
+  twitter = "b_holt_dwyer"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "forest"
+  theme = "poppy"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -61,8 +62,9 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  # Commissioner is what Vinnie uses
+  customtextFontFamily = "Bitter"
+  customheadingFontFamily = "Bitter"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -88,23 +90,20 @@ enableEmoji = true
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/vinnyarmentano"
+      url       = "https://twitter.com/b_holt_dwyer"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/vinnyarmentano"
+      url       = "https://github.com/bholtdwyer"
+  #TODO must update this after creating site
   [[params.social]]
       icon      = "google" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://scholar.google.com/citations?user=PE_Kdd8AAAAJ&hl=en"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://orcid.org/0000-0002-0710-3147"
+      url       = "https://scholar.google.com/"
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "mailto:varmenta@ucsd.edu"
+      url       = "mailto:bdwyer@ucsd.edu"
   
   
 [taxonomies]
@@ -127,13 +126,8 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/armentano_v_cv.pdf"
+    url = "/cv/cvaug2024.pdf"
     weight = 3
-  [[menu.header]]
-    name = "Teaching"
-    title = "Teaching"
-    url = "/teaching/"
-    weight = 4
   #[[menu.header]]
   #  name = "Blog"
   #  title = "Blog"
