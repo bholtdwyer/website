@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Holt Dwyer"
   orgLocal = "San Diego"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Hi! I'm Holt Dwyer. Welcome to my website!"
   #Locations are all under the "/static/img" folder under themes/hugo-apero
   favicon = "/img/bonsai.svg"
   #Little decorative element at top/left of page

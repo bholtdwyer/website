@@ -2,7 +2,7 @@
 author:
 type: blog
 title: Research
-description: "This is a fully featured blog that supports categories, \ntags, series, and pagination.\n"
+description: "I’m a PhD candidate in Economics at the University of California, San Diego, focusing on macroeconomics and development."
 layout: list-sidebar
 show_author_byline: false
 show_button_links: false

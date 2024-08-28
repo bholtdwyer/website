@@ -8,6 +8,3 @@ title: Curriculum Vitae
 ---
 
 # 404, I'm 95% confident this isn't the page you're looking for!
-\
-\
-[Please find my CV here.](https://vincentarmentano.com/cv/armentano_v_cv.pdf)

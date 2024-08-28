@@ -1,2 +1,2 @@
-# vincent
+# Holt Dwyer
 Personal Academic Website. 
