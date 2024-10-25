@@ -43,7 +43,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder (under themes/hugo-apero) and specify image name here.
-  sharing_image = "/img/headshot.jpg"
+  sharing_image = "/img/green_background_headshot.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "b_holt_dwyer"
   
@@ -128,7 +128,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/cvaug2024.pdf"
+    url = "/cv/cv.pdf"
     weight = 3
   #[[menu.header]]
   #  name = "Blog"
