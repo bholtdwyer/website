@@ -1,37 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Vincent Armentano</title>
-    <link>https://vincentarmentano.com/research/</link>
-    <description>Recent content in Research on Vincent Armentano</description>
+    <title>Research on Holt Dwyer</title>
+    <link>https://holtdwyer.netlify.app/research/</link>
+    <description>Recent content in Research on Holt Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vincentarmentano.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://holtdwyer.netlify.app/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Movin&#39; on Up? The Impacts of a Large-Scale Home Ownership Lottery in Uruguay</title>
-      <link>https://vincentarmentano.com/research/mvotma/</link>
+      <title>Farming on the Margin: the Green Revolution and Farm Sizes in India</title>
+      <link>https://holtdwyer.netlify.app/research/india_fs/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://holtdwyer.netlify.app/research/india_fs/</guid>
+      <description>I investigate the impact of the Green Revolution on the farm size distribution in India. Employing an instrument for the adoption of new high-yielding varieties of staple crops, I find that adoption of high-yielding crop varieties led to increased concentration of farms and farmland in the smallest size category, with no effects on large farms. This contrasts with the predictions of existing models of the farm size distribution, in which an increase in farmland productivity puts downward pressure on sizes across the full range of the distribution.</description>
+    </item>
+    
+    <item>
+      <title>The Effects of Procurement Contracts on Heterogeneous Firms: Evidence from the United States</title>
+      <link>https://holtdwyer.netlify.app/research/firms_procurement/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://holtdwyer.netlify.app/research/firms_procurement/</guid>
+      <description>Work in progress.</description>
+    </item>
+    
+    <item>
+      <title>Whose Woods are These? &#39;Maintained&#39; Forest Enforcement in Indonesia</title>
+      <link>https://holtdwyer.netlify.app/research/indonesia_forest/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://holtdwyer.netlify.app/research/indonesia_forest/</guid>
+      <description>In this paper I investigate the effectiveness of enforcement of Indonesia&amp;rsquo;s Maintained Forest, a vast area under the control of the central government that is supposed to be maintained as forest in perpetuity. Using a geographic RD design, I find that there are only small de facto effects of this de jure protected status. Most of the small protective effect appears to operate through restrictions on tree crops, a major source of deforestation (and also local economic development) in Indonesia.</description>
+    </item>
+    
+    <item>
+      <title>Decentralizing Development: Structural Transformation Effects of Indonesia&#39;s Village Fund</title>
+      <link>https://holtdwyer.netlify.app/research/village_fund/</link>
+      <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://holtdwyer.netlify.app/research/village_fund/</guid>
+      <description>Can development objectives be effectively pursued by channeling resources to local governments? We investigate the effects of a large increase in resources available to rural villages on local development outcomes. Work in progress.</description>
+    </item>
+    
+    <item>
+      <title>This is Air: The Non-Health Effects of Air Pollution</title>
+      <link>https://holtdwyer.netlify.app/research/thisisair/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://vincentarmentano.com/research/mvotma/</guid>
-      <description>Submitted for publication October 2022. More information forthcoming. We report on a large-scale urban resettlement program in Uruguay. Over the course of seven years the program randomly assigned thousands of low-income households to ownership of apartments in new buildings in middle-class areas, including a subsidy averaging $44,000 per household. We match applicants to comprehensive administrative data on employment, schooling, health, fertility, and voting over the decade subsequent to the move. We find that the program led to a small decline in fertility for women and a two percentage point increase in formal employment, but did not drive school attendance.</description>
-    </item>
-    
-    <item>
-      <title>King of the Hill. Tenuous property rights and labor misallocation in West African agriculture.</title>
-      <link>https://vincentarmentano.com/research/kinghill/</link>
-      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentarmentano.com/research/kinghill/</guid>
-      <description>Please contact me for more information.</description>
-    </item>
-    
-    <item>
-      <title>Into each life some rain must fall, is too little falling in mine? Rainfall expectations and crop portfolio choices in West African agriculture.</title>
-      <link>https://vincentarmentano.com/research/rainexp/</link>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentarmentano.com/research/rainexp/</guid>
-      <description>More information forthcoming</description>
+      <guid>https://holtdwyer.netlify.app/research/thisisair/</guid>
+      <description>With Sandra Aguilar-Gomez, Joshua Graff Zivin, and Matthew Neidell.
+A robust body of evidence shows that air pollution exposure is detrimental to health outcomes, often measured as deaths and hospitalizations. This literature has focused less on subclinical channels that nonetheless impact behavior, performance, and skills. This article reviews the economic research investigating the causal effects of pollution on &amp;ldquo;non-health&amp;rdquo; endpoints, including labor productivity, cognitive performance, and multiple forms of decision making.</description>
     </item>
     
   </channel>

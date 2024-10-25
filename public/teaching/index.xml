@@ -1,39 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching on Vincent Armentano</title>
-    <link>https://vincentarmentano.com/teaching/</link>
-    <description>Recent content in Teaching on Vincent Armentano</description>
+    <title>Teaching on Holt Dwyer</title>
+    <link>https://holtdwyer.netlify.app/teaching/</link>
+    <description>Recent content in Teaching on Holt Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vincentarmentano.com/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Courses</title>
-      <link>https://vincentarmentano.com/teaching/courses/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vincentarmentano.com/teaching/courses/</guid>
-      <description>Machine Learning for Causal Inference with RSyllabus and content forthcoming.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://holtdwyer.netlify.app/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TA Work</title>
-      <link>https://vincentarmentano.com/teaching/ta/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <link>https://holtdwyer.netlify.app/teaching/ta/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://vincentarmentano.com/teaching/ta/</guid>
-      <description>ECON1: Principles of Microeconomics, Fall 2021Each week of the ten week quarter I held an discussion section reviewing course content and helping students perform practice problems. I also held office hours, helped create exam questions and helped ensure lectures ran smoothly by answering questions in the lecture hall and on discord.
-ECON3: Principles of Macroeconomics, Winter 2022For this course I specialized in covering topics of inflation and monetary policy for discussion sections.</description>
+      <guid>https://holtdwyer.netlify.app/teaching/ta/</guid>
+      <description>ECON1: Principles of Microeconomics, Fall 2021 &amp;amp; Winter 2023 Each week of the ten week quarter I held an discussion section reviewing course content and helping students perform practice problems. I also held office hours, helped create exam questions and helped ensure lectures ran smoothly by answering questions in the lecture hall and on discord.
+ECON3: Principles of Macroeconomics, Winter 2022 For this course I specialized in covering topics of inflation and monetary policy for discussion sections.</description>
     </item>
     
     <item>
       <title>Extracurricular Service</title>
-      <link>https://vincentarmentano.com/teaching/extracurricular/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <link>https://holtdwyer.netlify.app/teaching/extracurricular/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://vincentarmentano.com/teaching/extracurricular/</guid>
-      <description>Graduate Student Research Seminar (GSRS)Fall 2021-PresentThe Graduate Student Research Seminar (GSRS) is a weekly seminar for graduate students to present ongoing works to other graduate students. Alongside one other student, I help organize this seminar series each quarter.
-ECONnectedPreparing to apply to graduate school can be an opque process to undergruate students. ECONnected was established to help facilitate conversations between undergrad and graduate economics students to help eliminate knowledge gaps.</description>
+      <guid>https://holtdwyer.netlify.app/teaching/extracurricular/</guid>
+      <description>Graduate Student Research Seminar (GSRS) Fall 2021-Present The Graduate Student Research Seminar (GSRS) is a weekly seminar for graduate students to present ongoing works to other graduate students. Alongside one other student, I help organize this seminar series each quarter.
+ECONnected Winter 2020-Present Preparing to apply to graduate school can be an opque process to undergruate students. ECONnected was established to help facilitate conversations between undergrad and graduate economics students to help eliminate knowledge gaps.</description>
     </item>
     
   </channel>
