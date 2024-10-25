@@ -5,7 +5,7 @@ action_type: text
 description: Hi! Welcome to my webpage. I'm a PhD candidate in Economics at the University of California, San Diego, focusing on macroeconomics and development. Take a look around!
 image_left: true
 images:
-- img/headshot.jpg
+- img/green_background_headshot.jpg
 show_action_link: true
 show_social_links: true
 subtitle: University of California, San Diego
