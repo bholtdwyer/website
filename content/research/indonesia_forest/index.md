@@ -12,3 +12,5 @@ In this paper I investigate the effectiveness of enforcement of Indonesia's Main
 
 <a class="link f6 f5-l dib pv1 ph2 " href="/research/indonesia_forest/indonesia_forest_rd_slides.pdf" title="Slides">Slides</a>
 
+<a class="link f6 f5-l dib pv1 ph2 " href="/research/indonesia_forest/_indonesia_forest_rd.pdf" title="Draft">Slides</a>
+
