@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hi! Welcome to my webpage. I'm a PhD candidate in Economics at the University of California, San Diego, focusing on macroeconomics and development. Take a look around!
+description: Hi! Welcome to my website. I'm a PhD candidate in Economics at the University of California, San Diego, focusing on macroeconomics and development. Take a look around!
 image_left: true
 images:
 - img/green_background_headshot.jpg
