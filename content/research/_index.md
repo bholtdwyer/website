@@ -2,7 +2,7 @@
 author:
 type: blog
 title: Research
-description: "I’m a PhD candidate in Economics at the University of California, San Diego, focusing on macroeconomics and development."
+description: "I’m an economist at Bates White Economic Consulting in Washington D.C.  I graduated from the University of California, San Diego in 2025."
 layout: list-sidebar
 show_author_byline: false
 show_button_links: false
@@ -20,7 +20,7 @@ cascade:
     text_link_url: /research/
 sidebar:
   author:
-  description: "I am interested in structural transformation and development, with a focus on India and Indonesia. My current work deals with the impact of the Green Revolution on farm sizes in India, the effectiveness of forest regulation in Indonesia, and the effect of federal procurement on firm growth in the U.S.\n"
+  description: "This website is home to my personal research. Topics include the impact of the Green Revolution on farm sizes in India, the effectiveness of forest regulation in Indonesia, and the effect of federal procurement on employment in the U.S.\n"
   show_sidebar_adunit: false
   text_link_label: Email me
   text_link_url: mailto:bdwyer@ucsd.edu

@@ -1,7 +1,7 @@
 ---
 author:
 categories:
-date: "2024-08-26"
+date: "2025-10-01"
 draft: false
 excerpt: With Edoardo Briganti, Ricardo Duque Gabriel, and Victor Sellemi. Work in progress.
 layout: single
@@ -9,7 +9,6 @@ subtitle:
 title: "Breaking Down the U.S. Employment Multiplier Using Micro-Level Data"
 ---
 
-We use restricted data from the Quarterly Census of Employment and Wages (QCEW) to link the universe of U.S. establishments with the universe of contractors in the Federal Procurement Data System (FPDS). Leveraging detailed institutional knowledge of federal acquisitions, we construct a new set of unanticipated contracts and examine their effects on employment growth. We find positive, significant, and persistent effects on firms with fewer than 150 employees. Using loan data from the Federal Reserve (Y14-Q), we show that small firms expand their credit and face lower interest rates after winning unanticipated contracts. At the regional level, we estimate a cost-per-job of $57,000 per year using unanticipated contracts—an order of magnitude lower than previous estimates based on all defense contracts. Lastly, by leveraging restricted QCEW data, we decompose the employment multiplier into a direct effect on contractors and an indirect multiplier effect on non-contractors, finding a 55-45% split, respectively.
+Using newly matched U.S. defense contract and restricted administrative employment data, we show that the employment effects of defense procurement are costly, concentrated, and slow to diffuse. Employment gains are initially driven by large existing contractors and come at a high cost of approximately $290,000 per job-year. While employment in non-contracting firms is crowded out on impact, positive spillovers emerge gradually and account for half of regional employment gains by the third year after a spending shock, suggesting delayed but persistent medium-term gains across industries. Within contractors, only 15% of job creation occurs at recipient establishments, highlighting the role of supply chain linkages.
 
 <a class="link f6 f5-l dib pv1 ph2 " href="/research/firms_procurement/Procuring_Growth_in_the_US__LDE_FPDS_.pdf" title="Draft">Draft</a>
-<a class="link f6 f5-l dib pv1 ph2 " href="/research/firms_procurement/Procuring_Growth_in_the_US__LDE_FPDS_appendix.pdf" title="Appendix">Appendix</a>
