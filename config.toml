@@ -30,7 +30,7 @@ enableEmoji = true
     
 [params]
   orgName = "Holt Dwyer"
-  orgLocal = "San Diego"
+  orgLocal = "Washington, D.C."
   description = "Hi! I'm Holt Dwyer. Welcome to my website!"
   #Locations are all under the "/static/img" folder under themes/hugo-apero
   favicon = "/img/bonsai.svg"
@@ -89,6 +89,10 @@ enableEmoji = true
   # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
+  [[params.social]]
+      icon      = "bluesky" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://bsky.app/profile/holtdwyer.bsky.social"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
