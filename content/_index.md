@@ -8,7 +8,7 @@ images:
 - img/green_background_headshot.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Macroeconomic & Development Research
+subtitle: Macroeconomics & Development Econ Research
 text_align_left: true
 title: Holt Dwyer, Ph.D.
 type: home
