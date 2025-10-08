@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: Macroeconomic & Development Research
 text_align_left: true
-title: Holt Dwyer
+title: Holt Dwyer, Ph.D.
 type: home
 ---
 

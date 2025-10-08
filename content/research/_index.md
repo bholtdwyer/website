@@ -2,7 +2,7 @@
 author:
 type: blog
 title: Research
-description: "I’m an economist at Bates White Economic Consulting in Washington D.C.  I graduated from the University of California, San Diego in 2025."
+description: "I’m an economist at Bates White Economic Consulting in Washington D.C. I graduated from the University of California, San Diego in 2025."
 layout: list-sidebar
 show_author_byline: false
 show_button_links: false
@@ -22,7 +22,7 @@ sidebar:
   author:
   description: "This website is home to my personal research. Topics include the impact of the Green Revolution on farm sizes in India, the effectiveness of forest regulation in Indonesia, and the effect of federal procurement on employment in the U.S.\n"
   show_sidebar_adunit: false
-  text_link_label: Email me
+  text_link_label: Email
   text_link_url: mailto:bdwyer@ucsd.edu
   title: Holt Dwyer
 thumbnail_left: true
