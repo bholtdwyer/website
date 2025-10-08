@@ -2,13 +2,13 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Hi! Welcome to my website. I'm a PhD candidate in Economics at the University of California, San Diego, focusing on macroeconomics and development. Take a look around!
+description: Hi! Welcome to my website. I'm an economist at Bates White Economic Consulting; I received my PhD from the University of California, San Diego in 2025. This site presents my personal academic research on macroeconomics, development economics, and other topics. Take a look around!
 image_left: true
 images:
 - img/green_background_headshot.jpg
 show_action_link: true
 show_social_links: true
-subtitle: University of California, San Diego
+subtitle: Macroeconomic & Development Research
 text_align_left: true
 title: Holt Dwyer
 type: home
