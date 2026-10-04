@@ -153,6 +153,16 @@
 
 
 // create custom font classes 
+/* della-respira-regular - latin (free revival of Della Robbia, via Google Fonts) */
+@font-face {
+  font-family: 'Della Respira';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local(''),
+       url('#{$font-path}/DellaRespira-Regular.woff2') format('woff2');
+}
+
 .custom-text-font { font-family: $customtextFontFamily; }
 .custom-heading-font { font-family: $customheadingFontFamily; }
 
